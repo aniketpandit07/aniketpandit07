@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to frontend web dev and core java  
   
 
-- *⚡ Fun fact: I know "how to center a div?"*  
+ 
   
 
 <br/>  
@@ -100,12 +100,14 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=aniketpandit07&&style=flat-square)  
   
 
 <br/>  
 
 
 <br />
+
+ 
 
 ----
